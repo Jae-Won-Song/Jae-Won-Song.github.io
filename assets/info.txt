@@ -1,1 +1,5 @@
-is info
+info => 010-1234-5678
+
+Static Web
+github.io
+
